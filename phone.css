@@ -1,0 +1,39 @@
+body {
+               margin: 0%;
+               height: 100%;
+               font-family: Lucida Bright;
+             }
+.container1 {
+               
+               left: 0;
+               width: 100%;
+               background-color:rgb(222, 241, 248) ;
+               margin: 0px;
+               height: 100%;
+               top: 0;
+               position: absolute;
+}
+.container2 {
+               background-color: #fcf9fc;
+               position: absolute;
+               top: 840px;
+               padding: 57px;
+               left: -460px;
+               display: grid;
+             }
+.details {
+               width: 100%;
+}
+.vl {
+               display: none;
+             }
+.profile {
+               margin-top: 0%;
+               position: relative;
+               width: 100%;
+               height: 100%;
+}
+.btn {
+               position: relative;
+               left: 15px;
+}
